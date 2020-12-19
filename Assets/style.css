@@ -1,0 +1,24 @@
+body {
+    background-image: url('../Assets/Images/pattern.jpg');
+    size: 100px;
+}
+.container {
+    background-color: white;
+}
+.row {
+    margin-right: -150px;
+    padding: 10px
+}
+
+.portfolio-header{
+    background-color: white;
+    padding: 10px;
+    margin-right: 0px;
+}
+
+.contact {
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 600px;
+    padding: 30px;
+}
